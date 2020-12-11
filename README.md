@@ -2,7 +2,7 @@ I took part in a research study once where they asked me to solve some puzzles a
 It turned into a cool [paper](https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf) and I got a free scan of my brain solving code, too!
 That's what the profile picture is haha
 
-Currently building a company and investing in some of my friends' companies as well. Resident of the greater silicon valley digital headspace.
+Currently building a company and investing in some of my friends' companies as well. I'm a resident of the greater silicon valley digital headspace.
 
 <!--
 **yashevde/yashevde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
