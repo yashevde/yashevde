@@ -1,6 +1,4 @@
-I took part in a research study once where they asked me to solve some code puzzles and word riddles while I was in an fMRI machine. It turned into a cool [paper](https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf) and I got a free scan of my brain, too!
-
-That's what the profile picture is haha
+I took part in a research study once where they asked me to solve some code puzzles and word riddles while I was in an fMRI machine. It turned into a cool [paper](https://web.eecs.umich.edu/~weimerw/p/weimer-icse2017-preprint.pdf) and I got a free scan of my brain, too! That's what the profile picture is haha
 
 <!--
 **yashevde/yashevde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
